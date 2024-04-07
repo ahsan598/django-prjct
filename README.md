@@ -1,3 +1,3 @@
-# Django 1st prjct
+# Django demo project
 
-This is just for practice 
+This is just for practice
